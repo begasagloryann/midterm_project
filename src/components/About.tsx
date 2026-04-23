@@ -5,7 +5,7 @@ const About = () => {
         {/* Palitan ang src ng totoong image path mo o URL */}
         <img src="https://lh3.googleusercontent.com/a/ACg8ocIedcAgi_hz9iqTeNzTz3HAJiiSoZBNAUVoTcsJQUnXXkFf78M=s360-c-no" alt="My Profile" className="profile-img" />
         <h2>About Me</h2>
-        <p>Kumusta! Ako si <strong>Jeroselyn, Cuyos</strong>. Isa akong aspiring developer na mahilig mag-solve ng problems gamit ang code.</p>
+        <p> I'm <strong> Glory Ann Begasa </strong>  .</p>
         
         <h3>Interests & Goals</h3>
         <ul>
